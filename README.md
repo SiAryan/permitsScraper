@@ -16,4 +16,4 @@ Step 2:
 
 """
 
-link to video walkthrough: https://drive.google.com/file/d/1ouSV4kZlx4UbCiQw4IauAUyGhLMvS5Hf/view?usp=sharing
+link to video walkthrough: https://youtu.be/IhHlITNsRS8
