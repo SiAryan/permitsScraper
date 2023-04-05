@@ -15,5 +15,3 @@ Step 2:
 
 
 """
-
-link to video walkthrough: https://youtu.be/IhHlITNsRS8
